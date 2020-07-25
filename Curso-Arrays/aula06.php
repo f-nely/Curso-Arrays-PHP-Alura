@@ -23,6 +23,7 @@ $array_relacionados = array_combine($correntistas, $saldos);
 $array_relacionados["nelynely"] = 3000;
 
 echo "Arrays Associativo";
+// Arrays Associativo ou Map
 
 var_dump($array_relacionados);
 
